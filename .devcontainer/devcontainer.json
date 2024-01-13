@@ -1,0 +1,9 @@
+{
+	"name": "CIS1200 OCaml",
+	"image": "esinx/cis1200",
+	"customizations": {
+		"vscode": {
+			"extensions": ["ocamllabs.ocaml-platform", "esinx.camelot"]
+		}
+	}
+}
